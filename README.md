@@ -40,7 +40,7 @@ I'm a passionate **Computer Science** student at the **University of Texas at Ar
 ---
 
 ## **📈 GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JrGaddame&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JrGaddam&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JrGaddam&layout=compact&theme=radical)  
 
 ---
