@@ -73,10 +73,3 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://jrgaddam.com/)  
 
 ---
-
-## **💡 Fun Fact**  
-When I'm not coding, you'll find me exploring new tech trends, playing chess, or binge-watching sci-fi movies!  
-
----
-
-⭐️ **Thanks for visiting my profile!** ⭐️  
