@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Jayanth Reddy Gaddam  
+# 👋 Hi, I'm Jayanth 
 
-### **Computer Science Student | Flutter Developer | Full-Stack Enthusiast**  
 I'm a passionate **Computer Science** student at the **University of Texas at Arlington**, specializing in software development, mobile apps, and compiler design. I love building solutions that solve real-world problems and make a meaningful impact.  
 
 ---
